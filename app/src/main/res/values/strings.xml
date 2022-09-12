@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string-array name="tagTypes">
+
+        <item>Person</item>
+        <item>Location</item>
+
+    </string-array>
+
+
+    <string name="title_activity_show_photos">Photos</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="my_albums">My Albums</string>
+    <string name="open">Open</string>
+    <string name="rename">Rename</string>
+    <string name="create">Create</string>
+    <string name="move">Move</string>
+    <string name="delete">Del</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="title_activity_move_photo">MovePhoto</string>
+    <string name="movelisttext">TextView</string>
+
+    <string name="left">&lt;</string>
+    <string name="right">&gt;</string>
+
+</resources>
